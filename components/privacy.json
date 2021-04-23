@@ -1,0 +1,394 @@
+{
+	"privacyPolicyTitle": {
+		"pt": "POLÍTICA DE PROTEÇÃO DE DADOS PESSOAIS",
+		"en": "PERSONAL DATA PROTECTION POLICY"
+	},
+	"privacyPolicyWho": {
+		"pt": "QUEM SOMOS?",
+		"en": "WHO WE ARE?"
+	},
+	"privacyPolicyWhoResponse1": {
+		"pt": "Hernâni Medeiros é um cidadão português que atualmente exerce a sua profissão em Portimão, desenvolvendo e implementando soluções profissionais para negócios e pessoas que querem vencer na internet (sites, aplicações web, lojas online, otimização SEO, marketing digital e consultoria digital). Hernâni é Mestre em Engenharia do Ambiente pela Universidade do Algarve  e Técnico Especialista em Tecnologias e Programação de Sistemas de Informação pelo IEFP.",
+		"en": "Hernâni Medeiros is a Portuguese citizen who currently exercises his profession in Portimão, developing and implementing professional solutions for businesses and people who want to win on the internet (websites, web applications, online stores, SEO optimization, digital marketing and digital consulting). Hernâni holds a Master's Degree in Environmental Engineering from the University of Algarve and Specialist Technician in Information Systems Technologies and Programming from IEFP."
+	},
+	"privacyPolicyWhoResponse2": {
+		"pt": "Hernâni Medeiros gere a sua página pessoal de domínio .com: hernanimedeiros.com, focada na área do desenvolvimento web.",
+		"en": "Hernâni Medeiros manages his personal .com domain page: hernanimedeiros.com, focused on the area of ​​web development."
+	},
+	"privacyPolicyWhy": {
+		"pt": "PORQUÊ ESTA POLÍTICA DE PROTEÇÃO DE DADOS PESSOAIS?",
+		"en": "WHY THIS PERSONAL DATA PROTECTION POLICY?"
+	},
+	"privacyPolicyWhyResponse1": {
+		"pt": "Nesta Política de Proteção de Dados Pessoais pretendo dar a conhecer aos meus Clientes/Utilizadores  desta página web as regras gerais de tratamento de dados pessoais, as quais são recolhidas e tratadas no estrito respeito e cumprimento do disposto na legislação de proteção de dados pessoais em vigor à presente data, nomeadamente:",
+		"en": "In this Personal Data Protection Policy, I intend to inform my Clients / Users of this website of the general rules for the treatment of personal data, which are collected and processed in strict respect and compliance with the provisions of the personal data protection legislation in force. to the present date, namely:"
+	},
+	"privacyPolicyWhyResponse2": {
+		"pt": "Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 ('RGPD');",
+		"en": "Regulation (EU) 2016/679 of the European Parliament and of the Council, of 27 April 2016 ('GDPR');"
+	},
+	"privacyPolicyWhyResponse3": {
+		"pt": "Lei n.º 58/2019, de 8 de agosto de 2019.",
+		"en": "Law No. 58/2019, of August 8, 2019."
+	},	
+	"privacyPolicyWhyResponse4": {
+		"pt": "A página web hernanimedeiros.com respeita as melhores práticas no domínio da segurança e da proteção dos dados pessoais, tendo para o efeito tomado as medidas técnicas e organizativas necessárias por forma a cumprir a legislação de proteção de dados pessoais e garantir que o tratamento dos dados pessoais é lícito, leal, transparente e limitado às finalidades autorizadas.",
+		"en": "The hernanimedeiros.com website respects the best practices in the field of security and protection of personal data, having for this purpose taken the necessary technical and organizational measures in order to comply with the legislation on the protection of personal data and ensure that the processing of data personal data is lawful, loyal, transparent and limited to authorized purposes."
+	},
+	"privacyPolicyWhyResponse5": {
+		"pt": "A gestão desta página web está empenhada na proteção e confidencialidade dos dados pessoais, tendo adotado as medidas que considera adequadas para assegurar a exatidão, integridade e confidencialidade dos dados pessoais, bem como, todos os demais direitos que assistem aos respetivos titulares.",
+		"en": "The management of this website is committed to the protection and confidentiality of personal data, having adopted the measures it deems appropriate to ensure the accuracy, integrity and confidentiality of personal data, as well as, all other rights that assist the respective holders."
+	},
+	"privacyPolicyWhyResponse6": {
+		"pt": "As regras previstas nesta Política de Proteção de Dados Pessoais complementam as disposições, em matéria de proteção e tratamento de dados pessoais, previstas nos contratos que os Clientes/Utilizadores celebram com a Hernâni Medeiros, assim como, as regras previstas nos termos e condições que regulam a oferta dos diversos produtos e serviços e que se encontram devidamente publicadas nas respectivas páginas web.",
+		"en": "The rules provided for in this Personal Data Protection Policy complement the provisions, in terms of protection and treatment of personal data, provided for in the contracts that Customers / Users enter into with Hernâni Medeiros, as well as the rules provided for in the terms and conditions the offer of various products and services and which are duly published on the respective web pages."
+	},
+	"privacyPolicyCover": {
+		"pt": "O QUE ABRANGE ESTA POLÍTICA DE PROTEÇÃO DE DADOS PESSOAIS?",
+		"en": "WHAT DOES THIS PERSONAL DATA PROTECTION POLICY COVER?"
+	},
+	"privacyPolicyCoverResponse1": {
+		"pt": "Esta Política de Proteção de Dados Pessoais aplica-se exclusivamente à recolha e tratamento de dados pessoais relativamente aos quais a Hernâni Medeiros é responsável pelo respetivo tratamento, no âmbito dos serviços e produtos disponibilizados aos seus Clientes/Utilizadores e em todas as situações em que ocorra um tratamento de dados pessoais pela página web hernanimedeiros.com, nomeadamente, através das ações de intervenção social e apoio ao desenvolvimento.",
+		"en": "This Personal Data Protection Policy applies exclusively to the collection and processing of personal data for which Hernâni Medeiros is responsible for the respective treatment, within the scope of services and products made available to its Customers / Users and in all situations where it occurs a processing of personal data through the hernanimedeiros.com website, namely, through social intervention and development support actions."
+	},
+	"privacyPolicyCoverResponse2": {
+		"pt": "Nas páginas web de hernanimedeiros.com poderão estar presentes links de acesso a outras páginas que são alheios à gestão da página web hernanimedeiros.com. A disponibilização de tais links é efetuada de boa-fé, não podendo a gestão da página web hernanimedeiros.com ser responsabilizada pela recolha e tratamento de dados pessoais efetuados através desses websites, nem assumindo à gestão da página web hernanimedeiros.com qualquer responsabilidade relativamente a tais websites, nomeadamente quanto à respetiva exatidão, credibilidade e funcionalidades disponibilizadas nos mesmos.",
+		"en": "The hernanimedeiros.com web pages may contain links to other pages that are unrelated to the management of the hernanimedeiros.com web page. The provision of such links is made in good faith, and the management of the hernanimedeiros.com website cannot be held responsible for the collection and processing of personal data carried out through these websites, nor does the management of the hernanimedeiros.com website assume any responsibility in relation to such websites, namely as to the respective accuracy, credibility and functionalities made available on them."
+	},
+	"privacyPolicyPersonalData": {
+		"pt": "O QUE SÃO DADOS PESSOAIS?",
+		"en": "WHAT IS PERSONAL DATA?"
+	},
+	"privacyPolicyPersonalDataResponse1": {
+		"pt": "Dados pessoais são qualquer informação, de qualquer natureza e independentemente do respetivo suporte, incluindo som e imagem, relativa a uma pessoa singular identificada ou identificável.",
+		"en": "Personal data is any information, of any nature and regardless of its support, including sound and image, relating to an identified or identifiable natural person."
+	},
+	"privacyPolicyPersonalDataResponse2": {
+		"pt": "É considerada identificável a pessoa singular que possa ser identificada, direta ou indiretamente, designadamente por referência a um nome, número de identificação, dados de localização, identificadores por via eletrónica ou a um ou mais elementos específicos da sua identidade física, fisiológica, genética, mental, económica, cultural ou social.",
+		"en": "An identifiable person is a person who can be identified, directly or indirectly, namely by reference to a name, identification number, location data, identifiers electronically or to one or more elements specific to his physical, physiological, genetic identity, mental, economic, cultural or social."
+	},
+	"privacyPolicyTreatment": {
+		"pt": "NO QUE CONSISTE O TRATAMENTO DE DADOS PESSOAIS?",
+		"en": "WHAT IS THE PROCESSING OF PERSONAL DATA?"
+	},
+	"privacyPolicyTreatmentResponse1": {
+		"pt": "O tratamento de dados pessoais consiste numa operação ou conjunto de operações efetuadas sobre dados pessoais ou conjuntos de dados pessoais, através de meios automatizados, ou não, nomeadamente a recolha, o registo, a organização, a estruturação, a conservação, a adaptação, a recuperação, a consulta, a utilização, a divulgação, difusão, comparação, interconexão, a limitação, o apagamento ou a destruição.",
+		"en": "The processing of personal data consists of an operation or set of operations carried out on personal data or sets of personal data, using automated means, whether or not, namely the collection, registration, organization, structuring, conservation, adaptation, recovery, consultation, use, disclosure, dissemination, comparison, interconnection, limitation, erasure or destruction."
+	},
+	"privacyPolicyTreatmentPerson": {
+		"pt": "QUEM É O RESPONSÁVEL PELO TRATAMENTO DE DADOS?",
+		"en": "WHO IS RESPONSIBLE FOR DATA PROCESSING?"
+	},
+	"privacyPolicyTreatmentPersonResponse1": {
+		"pt": "O responsável pelo tratamento dos dados pessoais é o gestor da página: Hernâni Medeiros. Este determina as finalidades e os meios de tratamento dos mesmos.",
+		"en": "The person responsible for the processing of personal data is the page manager: Hernâni Medeiros. This determines the purposes and means of treatment of the same."
+	},
+	"privacyPolicyTreatmentPersonResponse2": {
+		"pt": "Para este efeito, caso o titular dos dados pessoais necessite de entrar em contacto com o responsável pelo tratamento de dados, poderá enviar uma comunicação escrita dirigida ao responsável pelo tratamento para o e-mail: hernanifelixmedeiros@gmail.com.",
+		"en": "For this purpose, if the holder of the personal data needs to contact the data controller, he / she may send a written communication addressed to the controller to the e-mail: hernanifelixmedeiros@gmail.com."
+	},
+	"privacyPolicyTreatmentTutor": {
+		"pt": "QUEM É O ENCARREGADO DA PROTEÇÃO DE DADOS?",
+		"en": "WHO IS THE DATA PROTECTION PERSON?"
+	},
+	"privacyPolicyTreatmentTutorResponse1": {
+		"pt": "O encarregado da proteção de dados desempenha um papel relevante no tratamento dos dados pessoais, garantindo, entre outros aspetos, a conformidade dos tratamentos de dados com a legislação em vigor, procedendo à verificação do cumprimento desta Política de Proteção de Dados e definindo regras claras de tratamento de dados pessoais, assegurando que todos os que lhe confiam o tratamento dos seus dados pessoais, tenham conhecimento da forma como a gestão da página web hernanimedeiros.com trata os mesmos e quais os direitos que lhes assistem nesta matéria.",
+		"en": "The data protection officer plays a relevant role in the treatment of personal data, ensuring, among other aspects, the compliance of data processing with the legislation in force, proceeding to verify compliance with this Data Protection Policy and defining clear rules for data protection. processing of personal data, ensuring that everyone who entrusts the processing of your personal data to you is aware of how the management of the hernanimedeiros.com website treats them and what rights they have in this matter."
+	},
+	"privacyPolicyTreatmentTutorResponse2": {
+		"pt": "Assim, os titulares de dados pessoais, caso o pretendam, podem endereçar uma comunicação ao Encarregado da Proteção de Dados, relativamente a assuntos relacionados com o tratamento de dados pessoais, utilizando, para o efeito, o seguinte contacto: hernanifelixmedeiros@gmail.com",
+		"en": "Thus, the holders of personal data, if they so wish, can address a communication to the Data Protection Officer, regarding matters related to the processing of personal data, using, for this purpose, the following contact: hernanifelixmedeiros@gmail.com"
+	},
+	"privacyPolicyDataType": {
+		"pt": "QUAIS SÃO OS TIPOS DE DADOS PESSOAIS TRATADOS?",
+		"en": "WHAT ARE THE TYPES OF PERSONAL DATA PROCESSED?"
+	},
+	"privacyPolicyDataTypeResponse1": {
+		"pt": "A página web hernanimedeiros.com, no âmbito das atividades que desenvolve, procede ao tratamento dos dados pessoais necessários à prestação de serviços e/ou fornecimento de produtos, bem como, ao nível da intervenção social, tratando dados como o nome e endereço de correio eletrónico, conforme informação mais detalhada disponibilizada aos titulares de dados pessoais.",
+		"en": "The hernanimedeiros.com web page, within the scope of its activities, processes the personal data necessary to provide services and / or supply products, as well as, at the level of social intervention, processing data such as name and mail address electronic, according to more detailed information made available to holders of personal data."
+	},
+	"privacyPolicyDataTypeResponse2": {
+		"pt": "Sem prejuízo do cumprimento das normas legais relativas à conservação e transmissão de dados para fins de investigação, deteção, repressão de crimes graves, bem como de outros tratamentos a que se encontre legalmente obrigada, os dados de tráfego, localização geográfica, perfil e ou consumo do Cliente/Utilizadores serão tratados pela gestão da página web hernanimedeiros.com, na medida em que são necessários para a respetiva prestação dos serviços. Desta forma, com base na localização, perfil e/ou consumo, o Cliente/Utilizador terá acesso, nomeadamente, a funcionalidades específicas dos serviços, a sugestões de conteúdos e a serviços informativos de proximidade.",
+		"en": "Without prejudice to the compliance with legal norms related to the conservation and transmission of data for the purposes of investigation, detection, prosecution of serious crimes, as well as other treatments to which it is legally obliged, traffic data, geographic location, profile and or consumption Customer / Users will be treated by the management of the hernanimedeiros.com website, insofar as they are necessary for the respective provision of services. In this way, based on location, profile and / or consumption, the Client / User will have access, namely, to specific functionalities of the services, to suggestions of contents and to informational proximity services."
+	},
+	"privacyPolicyDataTypeResponse3": {
+		"pt": "A informação sobre a localização pode também ser registada e transmitida às organizações com competência legal para receber chamadas de emergência, para efeitos de resposta às chamadas recebidas.",
+		"en": "Location information can also be recorded and transmitted to organizations with legal competence to receive emergency calls, for the purpose of responding to incoming calls."
+	},
+	"privacyPolicyDataTypeResponse4": {
+		"pt": "Os dados pessoais, de tráfego, localização geográfica, perfil e/ou consumo são igualmente tratados, para fins de marketing ou divulgação de ofertas de bens ou serviços da página web hernanimedeiros.com, caso o respetivo titular o tenha autorizado.",
+		"en": "Personal data, traffic, geographic location, profile and / or consumption are also treated, for purposes of marketing or dissemination of offers of goods or services on the hernanimedeiros.com website, if the respective owner has authorized it."
+	},
+	"privacyPolicyDataTypeResponse5": {
+		"pt": "Os dados pessoais serão ainda tratados, caso o respetivo titular o tenha autorizado, para efeitos de divulgação de serviços informativos e listas, no âmbito do serviço universal, incluindo transmissão a terceiros para publicação das referidas listas e prestação de serviços informativos.",
+		"en": "Personal data will also be processed, if the respective holder has authorized it, for the purpose of disseminating information services and lists, within the scope of the universal service, including transmission to third parties for publication of the referred lists and provision of information services."
+	},
+	"privacyPolicyDataTypeResponse6": {
+		"pt": "Caso exista consentimento prévio do Cliente/Utilizador, este poderá ser retirado a qualquer momento, sem que, contudo, a licitude do tratamento efetuado com base no consentimento previamente dado seja comprometida.",
+		"en": "If there is prior consent from the Client / User, this can be withdrawn at any time, without, however, the lawfulness of the treatment carried out based on the consent previously given being compromised."
+	},
+	"privacyPolicyGetData": {
+		"pt": "QUANDO E COMO RECOLHEMOS OS SEUS DADOS PESSOAIS?",
+		"en": "WHEN AND HOW DO WE COLLECT YOUR PERSONAL DATA?"
+	},
+	"privacyPolicyGetDataResponse1": {
+		"pt": "A página web hernanimedeiros.com, recolhe os seus dados pessoais através do próprio website ou através de inquérito via hernanifelixmedeiros@gmail.com, garantindo, sempre que necessário, o prévio consentimento do titular dos dados pessoais.",
+		"en": "The website hernanimedeiros.com, collects your personal data through the website itself or through an inquiry via hernanifelixmedeiros@gmail.com, guaranteeing, whenever necessary, the prior consent of the holder of the personal data."
+	},
+	"privacyPolicyGetDataResponse2": {
+		"pt": "Alguns dados pessoais são indispensáveis à execução do contrato e, em caso de falta ou insuficiência dos mesmos, a página web hernanimedeiros.com não poderá disponibilizar o produto ou serviço em causa.",
+		"en": "Some personal data are indispensable for the execution of the contract and, in case of lack or insufficiency of the same, the website hernanimedeiros.com will not be able to provide the product or service in question."
+	},
+	"privacyPolicyGetDataResponse3": {
+		"pt": "Caso o titular dos dados pessoais não seja Cliente/Utilizador da página web hernanimedeiros.com, os respetivos dados pessoais apenas serão tratados quando são disponibilizados, designadamente através da subscrição do envio de newsletters, caso em que se aplicarão as regras desta Política de Proteção de Dados.",
+		"en": "If the holder of the personal data is not a Customer / User of the hernanimedeiros.com website, the respective personal data will only be processed when they are made available, namely by subscribing to the sending of newsletters, in which case the rules of this Privacy Protection Policy will apply. Data."
+	},
+	"privacyPolicyGetDataResponse4": {
+		"pt": "Os dados pessoais recolhidos podem ser tratados informaticamente e de forma automatizada ou não automatizada, garantindo em todos os casos o estrito cumprimento da legislação de proteção de dados pessoais, sendo armazenados em bases de dados específicas, criadas para o efeito e, em situação alguma, os dados recolhidos serão utilizados para outra finalidade que não seja aquela para a qual foram recolhidos ou dado o consentimento por parte do titular dos dados.",
+		"en": "The personal data collected can be processed by computer and in an automated or non-automated way, guaranteeing in all cases the strict compliance with the legislation on the protection of personal data, being stored in specific databases, created for this purpose and, under no circumstances, the data collected will be used for a purpose other than that for which it was collected or given the consent of the data subject."
+	},
+	"privacyPolicyClient": {
+		"pt": "QUEM SÃO OS DESTINATÁRIOS DOS DADOS PESSOAIS?",
+		"en": "WHO ARE THE RECIPIENTS OF PERSONAL DATA?"
+	},
+	"privacyPolicyClientResponse1": {
+		"pt": "Sem prejuízo dos destinatários indicados ao longo desta Política de Proteção de Dados Pessoais, a página web hernanimedeiros.com poderá comunicar os dados pessoais do Cliente/Utilizador, com a finalidade do cumprimento de obrigações legais nomeadamente a entidades policiais, judiciais, fiscais e reguladoras.",
+		"en": "Without prejudice to the recipients indicated throughout this Personal Data Protection Policy, the website hernanimedeiros.com may communicate the personal data of the Client / User, for the purpose of complying with legal obligations, namely to police, judicial, tax and regulatory entities."
+	},
+	"privacyPolicyDataDestiny": {
+		"pt": "QUAIS AS FINALIDADES DO TRATAMENTO DOS DADOS PESSOAIS E RESPETIVOS FUNDAMENTOS JURÍDICOS?",
+		"en": ""
+	},
+	"privacyPolicyDataDestinyResponse1": {
+		"pt": "Em geral, os dados pessoais recolhidos têm como fundamento e destinam-se à gestão da relação contratual, à prestação dos serviços contratados, à adequação dos serviços às necessidades e interesses do Cliente/Utilizador, nomeadamente para efeitos de acesso a funcionalidades específicas dos serviços, a sugestões de conteúdos, a serviços informativos de proximidade (nomeadamente sobre farmácias de serviço, serviços de proximidade, etc.), a ações de informação e marketing, bem como à inclusão do Cliente/Utilizadores em listas/diretórios de assinantes.",
+		"en": ""
+	},
+	"privacyPolicyDataDestinyResponse2": {
+		"pt": "Adicionalmente, os dados pessoais poderão, ainda, ser tratados para efeitos de cumprimento de obrigações legais e para fins de investigação, deteção e repressão de crimes graves.",
+		"en": ""
+	},
+	"privacyPolicyDataDestinyResponse3": {
+		"pt": "Sem prejuízo da informação adicional prestada aquando da recolha dos dados, a página web hernanimedeiros.com poderá ainda, desde que legalmente admissível, utilizar os dados pessoais fornecidos pelo titular para outras finalidades, tais como para efeitos recrutamento, de ações de intervenção social, do envio de reclamações e sugestões, difusão de informações institucionais do Grupo e/ou dar a conhecer campanhas, promoções, publicidade e notícias sobre os produtos e/ou serviços da página web hernanimedeiros.com, bem como para a realização de estudos de mercado ou inquéritos de avaliação.",
+		"en": ""
+	},
+	"privacyPolicyDataTime": {
+		"pt": "POR QUANTO TEMPO CONSERVAMOS OS SEUS DADOS PESSOAIS?",
+		"en": ""
+	},
+	"privacyPolicyDataTimeResponse1": {
+		"pt": "O período de tempo durante o qual os dados pessoais são armazenados e conservados varia de acordo com a finalidade para a qual a informação é tratada.",
+		"en": ""
+	},
+	"privacyPolicyDataTimeResponse2": {
+		"pt": "Efetivamente, existem requisitos legais que obrigam a conservar os dados por um período de tempo mínimo. Assim, e sempre que não exista uma exigência legal específica, os dados serão armazenados e conservados apenas pelo período mínimo necessário para a prossecução das finalidades que motivaram a sua recolha ou o seu posterior tratamento, nos termos definidos na lei.",
+		"en": ""
+	},
+	"privacyPolicyDataRights": {
+		"pt": "QUAIS SÃO OS SEUS DIREITOS ENQUANTO TITULAR?",
+		"en": ""
+	},
+	"privacyPolicyDataRightsResponse1": {
+		"pt": "Enquanto titulares dos dados pessoais, é garantido aos Clientes/Utilizadores, a qualquer momento, o direito de acesso, retificação, atualização, limitação e apagamento dos seus dados pessoais (salvo quanto aos dados que são indispensáveis à prestação dos serviços pela página web hernanimedeiros.com devidamente identificados no Formulário como sendo de fornecimento obrigatório ou ao cumprimento de obrigações legais a que o responsável pelo tratamento esteja sujeito), o direito de oposição à utilização dos mesmos para fins comerciais pela página web hernanimedeiros.com e à retirada do consentimento, sem que tal comprometa a licitude do tratamento efetuado ao abrigo desse consentimento, bem como o direito à portabilidade dos dados.",
+		"en": ""
+	},
+	"privacyPolicyDataUpdate": {
+		"pt": "COMO PODERÁ ACEDER, RETIFICAR, ATUALIZAR, LIMITAR, APAGAR, OPOR-SE AO TRATAMENTO DOS SEUS DADOS PESSOAIS, OU REMOVER O CONSENTIMENTO?",
+		"en": ""
+	},
+	"privacyPolicyDataUpdateResponse1": {
+		"pt": "Sem prejuízo do disposto na legislação de proteção de dados pessoais, o titular dos dados pessoais poderá fazê-lo, diretamente ou mediante pedido por escrito, dirigido ao respetivo Responsável pelo tratamento, através do e-mail: hernanifelixmedeiros@gmail.com.",
+		"en": ""
+	},
+	"privacyPolicyDataOpposition": {
+		"pt": "COMO PODE OPOR-SE À RECEÇÃO DE CONTACTOS PARA FINS DE MARKETING?",
+		"en": ""
+	},
+	"privacyPolicyDataOppositionResponse1": {
+		"pt": "A página web hernanimedeiros.com pode promover ações de divulgação junto dos seus Clientes/Utilizadores, de novos produtos ou serviços, nomeadamente através de e-mail ou qualquer outro serviço de comunicações eletrónicas, caso o titular dos dados pessoais tenha dado o respetivo consentimento.",
+		"en": ""
+	},
+	"privacyPolicyDataOppositionResponse2": {
+		"pt": "Caso o titular de dados pessoais não pretenda continuar a rececionar estas comunicações pode, a qualquer momento, retirar o seu consentimento à utilização dos seus dados para fins de marketing.",
+		"en": ""
+	},
+	"privacyPolicyDataComplaint": {
+		"pt": "COMO PODE RECLAMAR?",
+		"en": ""
+	},
+	"privacyPolicyDataComplaintResponse1": {
+		"pt": "Sem prejuízo de poder apresentar reclamações diretamente à página web hernanimedeiros.com, através dos contactos disponibilizados para o efeito, o Cliente/Utilizador pode reclamar diretamente para a Autoridade de Controlo, que é a Comissão Nacional de Proteção de Dados (CNPD), utilizando os contactos disponibilizados por esta entidade para o efeito.",
+		"en": ""
+	},
+	"privacyPolicyDataSecurity": {
+		"pt": "QUAIS AS MEDIDAS ADOTADAS PELA PÁGINA HERNANIMEDEIROS.COM PARA ASSEGURAR A SEGURANÇA DOS SEUS DADOS PESSOAIS?",
+		"en": ""
+	},
+	"privacyPolicyDataSecurityResponse1": {
+		"pt": "A página web hernanimedeiros.com assume o compromisso de garantir a proteção da segurança dos dados pessoais que lhe são disponibilizados, tendo aprovado e implementado rigorosas regras nesta matéria. O cumprimento destas regras constitui uma obrigação de todos aqueles que legalmente aos mesmos acedem.",
+		"en": ""
+	},
+	"privacyPolicyDataSecurityResponse2": {
+		"pt": "Tendo presente a preocupação e empenho que a página web hernanimedeiros.com revela na defesa dos dados pessoais, foram adotadas diversas medidas de segurança, de carácter técnico e organizativo, de forma a proteger os dados pessoais que lhe são disponibilizados contra a sua difusão, perda, uso indevido, alteração, tratamento ou acesso não autorizado, bem como contra qualquer outra forma de tratamento ilícito.",
+		"en": ""
+	},
+	"privacyPolicyDataSecurityResponse3": {
+		"pt": "Adicionalmente, as entidades terceiras que, no âmbito de prestações de serviços, procedam ao tratamento de dados pessoais do Cliente/ Utilizador em nome e por conta da página web hernanimedeiros.com, estão obrigadas, por escrito, a executar medidas técnicas e de segurança adequadas que, em cada momento, satisfaçam os requisitos previstos na legislação em vigor e assegurem a defesa dos direitos do titular dos dados (nomeadamente, a proteção da privacidade e dos dados pessoais dos Clientes/ Utilizadores).",
+		"en": ""
+	},
+	"privacyPolicyDataSecurityResponse4": {
+		"pt": "Neste sentido, a página web hernanimedeiros.com, os formulários de recolha de dados pessoais obrigam a sessões encriptadas do Browser e todos os dados pessoais cedidos ficam armazenados de forma segura nos sistemas da página web hernanimedeiros.com que, por sua vez, se encontram num Datacenter, a coberto de todas as medidas de segurança físicas e lógicas que a gestão da página web hernanimedeiros.com entendeu serem indispensáveis à proteção dos dados pessoais.",
+		"en": ""
+	},
+	"privacyPolicyDataSecurityResponse5": {
+		"pt": "Não obstante as medidas de segurança adotadas pela página web hernanimedeiros.com, a gestão desta alerta a todos os que navegam na Internet que devem adotar medidas adicionais de segurança, designadamente, assegurar que utilizam um PC e um Browser atualizados em termos de 'patches' de segurança adequadamente configurados, com firewall ativa, antivírus e anti-spyware e que se certifiquem da autenticidade dos sites que visitam na internet, devendo evitar websites em cuja reputação não confiem.",
+		"en": ""
+	},
+	"privacyPolicyDataCollab": {
+		"pt": "EM QUE CIRCUNSTÂNCIAS EXISTE COMUNICAÇÃO DE DADOS A OUTRAS ENTIDADES (TERCEIROS E SUBCONTRATADOS)?",
+		"en": ""
+	},
+	"privacyPolicyDataCollabResponse1": {
+		"pt": "A página web hernanimedeiros.com, no âmbito da sua atividade, poderá recorrer a terceiros para a prestação de determinados serviços. Por vezes, a prestação destes serviços implica o acesso, por estas entidades, a dados pessoais dos Clientes/Utilizadores. Quando tal sucede, a página web hernanimedeiros.com toma as medidas adequadas, de forma a assegurar que as entidades que tenham acesso aos dados são reputadas e oferecem as mais elevadas garantias a este nível, o que fica devidamente consagrado e acautelado contratualmente entre página web hernanimedeiros.com e a(s) terceira(s) entidade(s).",
+		"en": ""
+	},
+	"privacyPolicyDataCollabResponse2": {
+		"pt": "Assim, qualquer entidade subcontratada pela página web hernanimedeiros.com tratará os dados pessoais dos nossos Clientes/Utilizadores, em nome e por conta da página web hernanimedeiros.com e adotando medidas técnicas e organizacionais necessárias de forma a proteger os dados pessoais contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado e contra qualquer outra forma de tratamento ilícito.",
+		"en": ""
+	},
+	"privacyPolicyDataCollabResponse3": {
+		"pt": "Em qualquer dos casos, a página web hernanimedeiros.com permanece responsável pelos dados pessoais que lhe sejam disponibilizados.",
+		"en": ""
+	},
+	"privacyPolicyDataTransfer": {
+		"pt": "EM QUE CIRCUNSTÂNCIAS TRANSFERIMOS OS SEUS DADOS PESSOAIS? ",
+		"en": ""
+	},
+	"privacyPolicyDataTransferResponse1": {
+		"pt": "A prestação de determinados serviços pela página web hernanimedeiros.com pode implicar a transferência dos seus dados para fora de Portugal, incluindo para fora da União Europeia ou para Organizações Internacionais.",
+		"en": ""
+	},
+	"privacyPolicyDataTransferResponse2": {
+		"pt": "Em tal caso, a página web hernanimedeiros.com cumprirá rigorosamente as disposições legais aplicáveis, nomeadamente quanto à determinação da adequabilidade do(s) país(es) de destino no que respeita a proteção de dados pessoais e aos requisitos aplicáveis a tais transferências, incluindo, sempre que aplicável, a celebração dos instrumentos contratuais adequados e que garantem e respeitam as exigências legais em vigor.",
+		"en": ""
+	},
+	"privacyPolicyDataChange": {
+		"pt": "COMO PODE FICAR A CONHECER QUAISQUER ALTERAÇÕES À POLÍTICA DE PROTEÇÃO DE DADOS PESSOAIS DA PÁGINA HERNANIMEDEIROS.COM?",
+		"en": ""
+	},
+	"privacyPolicyDataChangeResponse1": {
+		"pt": "A página web hernanimedeiros.com reserva-se o direito de, a qualquer altura, proceder a reajustamentos ou alterações à presente Política de Proteção de Dados Pessoais, sendo essas alterações devidamente publicitadas nos diversos canais de comunicação da página web hernanimedeiros.com.",
+		"en": ""
+	},
+	"privacyPolicyDataCookieUse": {
+		"pt": "COMO USAMOS OS 'COOKIES'?",
+		"en": ""
+	},
+	"privacyPolicyDataCookieUseResponse1": {
+		"pt": "'Cookies' são pequenas etiquetas de software que são armazenadas no computador através do navegador (browser), retendo apenas informação relacionada com as preferências, não incluindo, como tal, os dados pessoais.",
+		"en": ""
+	},
+	"privacyPolicyDataCookieUseResponse2": {
+		"pt": "Para saber mais sobre como pode gerir as cookies no seu browser consulte a informação sobre Gestão de Cookies:",
+		"en": ""
+	},
+	"privacyPolicyDataCookieUseResponse3": {
+		"pt": "Chrome",
+		"en": "Chrome"
+	},
+	"privacyPolicyDataCookieUseResponse4": {
+		"pt": "https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=pt",
+		"en": "https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=pt"
+	},
+	"privacyPolicyDataCookieUseResponse5": {
+		"pt": "Firefox",
+		"en": "Firefox"
+	},
+	"privacyPolicyDataCookieUseResponse6": {
+		"pt": "https://support.mozilla.org/pt-PT/kb/protecao-contra-monitorizacao-melhorada-no-firefox-para-pc?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=pt-pt",
+		"en": "https://support.mozilla.org/pt-PT/kb/protecao-contra-monitorizacao-melhorada-no-firefox-para-pc?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=pt-pt"
+	},
+	"privacyPolicyDataCookieUseResponse7": {
+		"pt": "Microsoft Edge",
+		"en": "Microsoft Edge"
+	},
+	"privacyPolicyDataCookieUseResponse8": {
+		"pt": "https://support.microsoft.com/pt-pt/windows/microsoft-edge-dados-de-navega%C3%A7%C3%A3o-e-privacidade-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd",
+		"en": ""
+	},
+	"privacyPolicyCookiesAbout": {
+		"pt": "SOBRE COOKIES",
+		"en": "ABOUT COOKIES"
+	},
+	"privacyPolicyCookiesAboutResponse1": {
+		"pt": "O que são cookies?",
+		"en": "What are cookies?"
+	},
+	"privacyPolicyCookiesAboutResponse2": {
+		"pt": "'Cookies' são pequenas etiquetas de software que são armazenadas nos equipamentos de acesso através do navegador (browser), retendo apenas informação relacionada com as preferências, que não são utilizadas para identificar pessoalmente os utilizadores, não incluindo, como tal, os dados pessoais.",
+		"en": "'Cookies' are small software tags that are stored on the access devices through the browser (browser), retaining only information related to preferences, which are not used to personally identify users, not including, as such, personal data."
+	},
+	"privacyPolicyCookiesAboutResponse3": {
+		"pt": "Para que servem os cookies?",
+		"en": "What are cookies for?"
+	},
+	"privacyPolicyCookiesAboutResponse4": {
+		"pt": "Os cookies servem para ajudar a determinar a utilidade, interesse e o número de utilizações dos websites, permitindo uma navegação mais rápida e eficiente, eliminando a necessidade de introduzir repetidamente as mesmas informações.",
+		"en": "Cookies are used to help determine the usefulness, interest and number of uses of the websites, allowing faster and more efficient navigation, eliminating the need to repeatedly enter the same information."
+	},
+	"privacyPolicyCookiesAboutResponse5": {
+		"pt": "Que tipo de cookies existem?",
+		"en": "What kind of cookies are there?"
+	},
+	"privacyPolicyCookiesAboutResponse6": {
+		"pt": "Existem dois grupos cookies de acordo com o período em que ficam armazenados:",
+		"en": "There are two groups of cookies according to the period in which they are stored:"
+	},
+	"privacyPolicyCookiesAboutResponse7": {
+		"pt": "Cookies permanentes - são cookies que ficam armazenados ao nível do browser nos equipamentos de acesso (PC, mobile e tablet) e que são utilizados sempre que faz uma nova visita à página web hernanimedeiros.com. São utilizados, geralmente, para direcionar a navegação aos interesses do utilizador, permitindo prestar um serviço mais personalizado.",
+		"en": "There are two groups of cookies according to the period in which they are stored: Permanent cookies - these are cookies that are stored at the browser level on access devices (PC, mobile and tablet) and that are used whenever you make a new visit to the hernanimedeiros.com website. They are generally used to direct navigation to the user's interests, allowing to provide a more personalized service."
+	},
+	"privacyPolicyCookiesAboutResponse8": {
+		"pt": "Cookies de sessão - são cookies temporários que permanecem no arquivo de cookies do browser até sair do website, fazer log out da sessão, ou limpar os cookies. A informação obtida por estes cookies serve para analisar padrões de tráfego na web, permitindo identificar problemas e fornecer uma melhor experiencia de navegação.",
+		"en": "Session cookies - are temporary cookies that remain in the browser's cookie file until you leave the website, log out of the session, or clear cookies. The information obtained by these cookies serves to analyze traffic patterns on the web, allowing you to identify problems and provide a better browsing experience."
+	},
+	"privacyPolicyCookiesDestination": {
+		"pt": "Para que fins utilizamos cookies?",
+		"en": "For what purposes do we use cookies?"
+	},
+	"privacyPolicyCookiesDestinationResponse1": {
+		"pt": "Cookies estritamente necessários - Permitem a navegação no website e utilização das aplicações, bem como aceder a áreas seguras do website. Sem estes cookies, os serviços requerido não podem ser prestados.",
+		"en": "Strictly necessary cookies - Allows browsing the website and using applications, as well as accessing secure areas of the website. Without these cookies, the required services cannot be provided."
+	},
+	"privacyPolicyCookiesDestinationResponse2": {
+		"pt": "Cookies analíticos - São utilizados anonimamente para efeitos de criação e análise de estatísticas, no sentido de melhorar o funcionamento do website.",
+		"en": "Analytical cookies - They are used anonymously for the purpose of creating and analyzing statistics, in order to improve the functioning of the website."
+	},
+	"privacyPolicyCookiesDestinationResponse3": {
+		"pt": "Cookies de funcionalidade - Guardam as preferências do utilizador relativamente à utilização do site, para que não seja necessário voltar a configurar o site cada vez que o visita.",
+		"en": "Functionality cookies - Keep the user's preferences regarding the use of the website, so that it is not necessary to reconfigure the website each time you visit it."
+	},
+	"privacyPolicyCookiesDestinationResponse4": {
+		"pt": "Cookies de terceiros - Medem o sucesso de aplicações e a eficácia da publicidade de terceiros. Podem também ser utilizados no sentido de personalizar um widget com dados do utilizador.",
+		"en": "Third-party cookies - Measure the success of applications and the effectiveness of third-party advertising. They can also be used to customize a widget with user data."
+	},
+	"privacyPolicyCookiesDestinationResponse5": {
+		"pt": "Cookies de publicidade - Direcionam a publicidade em função dos interesses de cada utilizador, por forma a direcionar as campanhas publicitárias tendo em conta os gostos dos utilizadores, sendo que, além disso, limitam a quantidade de vezes que vê o anúncio, ajudando a medir a eficácia da publicidade e o sucesso da organização do website.",
+		"en": "Advertising cookies - Target advertising according to the interests of each user, in order to target advertising campaigns taking into account the tastes of users, and, in addition, limit the number of times you see the ad, helping to measure the advertising effectiveness and the success of the website organization."
+	},
+	"privacyPolicyCookiesManagement": {
+		"pt": "Como pode gerir os cookies?",
+		"en": ""
+	},
+	"privacyPolicyCookiesManagementResponse1": {
+		"pt": "Todos os browsers permitem ao utilizador aceitar, recusar ou apagar cookies, e ainda informar o utilizador sempre que um cookie é recebido, nomeadamente através da seleção das definições apropriadas no respetivo navegador. O utilizador pode configurar os cookies no menu 'opções' ou 'preferências' do seu browser.",
+		"en": "All browsers allow the user to accept, refuse or delete cookies, and also inform the user whenever a cookie is received, namely by selecting the appropriate settings in the respective browser. The user can configure cookies in the 'options' or 'preferences' menu of his browser."
+	},
+	"privacyPolicyCookiesManagementResponse2": {
+		"pt": "Poderá aceitar a utilização de cookies, através do botão Aceitar cookies presente na frase informativa que consta nos nossos sites, ou fazer as suas opções e a gestão dos mesmos na página informativa através dos browsers e ferramentas disponíveis.",
+		"en": "You can accept the use of cookies, through the button Accept cookies present in the informational phrase that appears on our websites, or make your choices and the management of them on the informational page through the available browsers and tools."
+	},
+	"privacyPolicyCookiesManagementResponse3": {
+		"pt": "Note-se, no entanto, que, ao desativar cookies, pode impedir que alguns serviços da web funcionem corretamente, afetando, parcial ou totalmente, a navegação no website.",
+		"en": "Note, however, that by disabling cookies, you can prevent some web services from functioning correctly, affecting, partially or totally, the navigation on the website."
+	}
+}

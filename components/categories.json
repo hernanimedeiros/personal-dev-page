@@ -1,0 +1,9 @@
+{
+  "labels": [
+    { "id": 0, "label": "Personal" },
+    { "id": 1, "label": "Linux" },
+    { "id": 3, "label": "PHP" },
+    { "id": 4, "label": "Vue" },
+    { "id": 5, "label": "Nuxt" }
+  ]
+}

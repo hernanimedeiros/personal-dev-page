@@ -1,0 +1,698 @@
+{
+	"aboutTitle": {
+		"pt": "Saber mais...",
+		"en": "Know more..."
+	},
+	"aboutSubTitle": {
+		"pt": "Saiba mais sobre a nossa equipa e conecte-se às nossas redes",
+		"en": "Know more about our team and conect to our networks"
+	},
+	"aboutButton": {
+		"pt": "Fale connosco",
+		"en": "Contact Us"
+	},
+	"aboutDescription": {
+		"pt": "Fale connosco",
+		"en": "Contact Us"
+	},
+	"appSearch": {
+		"pt": "Search Articles",
+		"en": "Search Articles"
+	},
+	"authorCredit": {
+		"pt": " por Hernâni Medeiros",
+		"en": " by Hernani Medeiros"
+	},
+	"authorLink": {
+		"pt": "http://linkedin.com/in/hernanimedeiros/",
+		"en": "http://linkedin.com/in/hernanimedeiros/"
+	},
+	"authorMessageA": {
+		"pt": "Desenhado com ",
+		"en": "Design with "
+	},
+	"authorMessageB": {
+		"pt": ", para sonhadores...",
+		"en": ", for dreamers..."
+	},
+	"blogTitle": {
+		"pt": "Hernani Blog",
+		"en": "Hernani Blog"
+	},
+	"blogTitleA": {
+		"pt": "Todos",
+		"en": "All"
+	},
+	"blogTitleB": {
+		"pt": "Top",
+		"en": "Top"
+	},
+	"blogTitleC": {
+		"pt": "# Categoria",
+		"en": "# Category"
+	},
+	"blogLastUpdate": {
+		"pt": "Last updated:",
+		"en": "Last updated:"
+	},
+	"blogShareMessage": {
+		"pt": "Hernâni Medeiros recomenda:",
+		"en": "Hernani Medeiros recommends:"
+	},
+	"cookiesMessage": {
+		"pt": "Este website usa cookies para facilitar a navegação e para recolha de dados estatísticos. Ao continuar a utilizar o nosso website concorda com a sua utilização e a nossa ",
+		"en": "This website uses cookies to facilitate navigation and to obtain statistical data. By continuing to use our website, you agree to its use and our "
+	},
+	"cancel": {
+		"pt": "Cancelar",
+		"en": "Cancel"
+	},
+	"contactTitle": {
+		"pt": "Contacta-me",
+		"en": "Contact me"
+	},
+	"contactDescription": {
+		"pt": "Entre em contato comigo utilizando os meio abaixo listados.",
+		"en": "Please contact me using the means below.:"
+	},
+	"contactTitleOptionA": {
+		"pt": "Contactos",
+		"en": "Contacts"
+	},
+	"contactTitleOptionB": {
+		"pt": "Redes Sociais",
+		"en": "Social Network"
+	},
+	"contactTitleOptionC": {
+		"pt": "Enviar mensagem já",
+		"en": "Contact now"
+	},
+	"contentBlogItem": {
+		"pt": "Conteudos",
+		"en": "Contents:"
+	},
+	"completedLabel": {
+		"pt": "Confirmar",
+		"en": "Confirm"
+	},
+	"completedInfo": {
+		"pt": "Por favor torne o círculo verde para confirmar as mudanças",
+		"en": "Please turn the ball green to confirm changes"
+	},
+	"completedMessageA": {
+		"pt": "Obrigado!",
+		"en": "Thank you!"
+	},
+	"completedMessageB": {
+		"pt": "Agradeceço a sua mensagem.",
+		"en": "Thank you for your message."
+	},
+	"cvHelpTitle": {
+		"pt": "Ajuda",
+		"en": "Help"
+	},
+	"cvHelpContent": {
+		"pt": "Ajuda sobre o CV.",
+		"en": "Help about CV."
+	},
+	"dismissAlertA": {
+		"pt": "Este alerta vai desaparecer em ",
+		"en": "This alert will dismiss after "
+	},
+	"dismissAlertB": {
+		"pt": "segundos...",
+		"en": "seconds..."
+	},
+	"experienceTitle": {
+		"pt": "Experiência",
+		"en": "Experience"
+	},
+	"experienceTitleA": {
+		"pt": "Musami",
+		"en": "Musami"
+	},
+	"experienceDateA": {
+		"pt": "2013-01",
+		"en": "2013-01"
+	},
+	"experienceDescriptionA": {
+		"pt": "Descriiiiiiii",
+		"en": "Descriiiiiiii"
+	},
+	"experienceTitleB": {
+		"pt": "JM Duarte",
+		"en": "JM Duarte"
+	},
+	"experienceDateB": {
+		"pt": "2017-02",
+		"en": "2017-02"
+	},
+	"experienceDescriptionB": {
+		"pt": "loress",
+		"en": "Descrii"
+	},
+	"experienceTitleC": {
+		"pt": "Bruno José Digital",
+		"en": "Bruno José Digital"
+	},
+	"experienceDateC": {
+		"pt": "2020-12",
+		"en": "2020-12"
+	},
+	"experienceDescriptionC": {
+		"pt": "Descriiiiiiii",
+		"en": "Descriiiiiiii"
+	},
+	"flagName": {
+		"pt": "Bandeira portuguesa",
+		"en": "United Kingdom flag"
+	},
+	"formInputEmailDescription": {
+		"pt": "Eu não partilharei o vosso e-mail com ninguém",
+		"en": "I will never share your email with anyone else"
+	},
+	"formInputEmailInvalid": {
+		"pt": "Introduza o seu melhor e-mail",
+		"en": "Introduce your best e-mail"
+	},
+	"formInputEmailInvalidVoid": {
+		"pt": "Por favor introduza um e-mail válido",
+		"en": "Please introduce a valid e-mail"
+	},
+	"formInputEmailPlaceholder": {
+		"pt": "E-mail",
+		"en": "E-mail"
+	},
+	"formInputEmailValid": {
+		"pt": "Obrigado pelo e-mail!",
+		"en": "Thank you for the e-mail!"
+	},
+	"formInputNameDescription": {
+		"pt": "Comigo a sua identidade está salvaguardada",
+		"en": "With me, your identity is safeguarded"
+	},
+	"formInputNameInvalid": {
+		"pt": "Introduza um nome válido",
+		"en": "Introduce a valid name"
+	},
+	"formInputNameInvalidVoid": {
+		"pt": "Por favor introduza o seu nome ou a sua empresa",
+		"en": "Please introduce your name or your company"
+	},
+	"formInputNamePlaceholder": {
+		"pt": "Nome ou Empresa",
+		"en": "Name or Company"
+	},
+	"formInputNameValid": {
+		"pt": "Obrigado!",
+		"en": "Thank you!"
+	},
+	"formInputMessageDescription": {
+		"pt": "A sua mensagem é muito importante para mim",
+		"en": "Your message is very important to me"
+	},
+	"formInputMessageInvalid": {
+		"pt": "Vou adorar ler a sua mensagem",
+		"en": "I will be happy to read your message"
+	},
+	"formInputMessageInvalidVoid": {
+		"pt": "Por favor introduza uma mensagem válida",
+		"en": "Please introduce a valid message"
+	},
+	"formInputMessagePlaceholder": {
+		"pt": "A sua mensagem",
+		"en": "Your message"
+	},
+	"formInputMessageValid": {
+		"pt": "Obrigado pela mensagem!",
+		"en": "Thank you for the message!"
+	},
+	"formUserAgreement": {
+		"pt": "Li e aceito a ",
+		"en": "I have read and accept the "
+	},
+	"formUserAgreementLink": {
+		"pt": "Política de Privacidade.",
+		"en": "Privacy Policy."
+	},
+	"formReset": {
+		"pt": "Limpar",
+		"en": "Reset"
+	},
+	"formSubmit": {
+		"pt": "Submeter",
+		"en": "Submit"
+	},
+	"formGoogleShortcut": {
+		"pt": "Preenche o formulário abaixo ou ",
+		"en": "Fill out the form below or "
+	},
+	"formGoogleShortcutLink": {
+		"pt": "aceder ao formulário externamente",
+		"en": "access the form externally"
+	},
+	"globalCompleted": {
+		"pt": "Confirmados:",
+		"en": "Completed:"
+	},
+	"globalNotCompleted": {
+		"pt": "| Por confirmar:",
+		"en": "| Not completed:"
+	},
+	"globalThanksA": {
+		"pt": "Obrigado!",
+		"en": "Thank you"
+	},
+	"globalThanksB": {
+		"pt": "Mais uma vez obrigado!",
+		"en": "One more time, thank you!"
+	},
+	"globalThanksC": {
+		"pt": "Obrigado por tudo!",
+		"en": "Thank you for everything"
+	},
+	"heroAboutTitle": {
+		"pt": "Sobre mim",
+		"en": "About me"
+	},
+	"heroAboutDescription": {
+		"pt": "Olá visitantes! O meu nome é Hernâni Medeiros e desenvolvo/implemento soluções profissionais para negócios e pessoas que querem vencer na internet (sites, aplicações web, lojas online, otimização SEO, marketing digital e consultoria digital).",
+		"en": "Hello dear visitor! My name is Hernani Medeiros and I develop/implement professional solutions to businesses and people who want to win in internet (websites, web apps, online stores, SEO optimization, digital marketing and digital conslulting)."
+	},
+	"heroAboutResumeTitle": {
+		"pt": "Em Resumo",
+		"en": "In Few Words"
+	},
+	"heroAboutResumeDescription": {
+		"pt": "Através das minhas capacidades técnicas, ajudo pessoas e empresas a concretizar os seus objetivos (posicionamento, agendamentos e vendas) na internet.",
+		"en": "I'm using my technical skills to help people and companies to acomplished their objetives (positioning, scheduling and sales) on internet."
+	},
+	"heroAboutItemTitleA": {
+		"pt": "Foco no Cliente",
+		"en": "Client Focus"
+	},
+	"heroAboutItemDescriptionA": {
+		"pt": "Nos projetos onde participo, procuro sempre a melhor solução para o cliente. Na minha visão, identificar as necessidades e focar nos resultados é a chave para o sucesso!",
+		"en": "In the projects there I work, I always seek the best solution for the client. In my view, identify the necessities and focus on the goals are the key to the sucess!"
+	},
+	"heroAboutItemButtonA": {
+		"pt": "Projectos",
+		"en": "Projects"
+	},
+	"heroAboutItemTitleB": {
+		"pt": "Ferramentas",
+		"en": "Tools"
+	},
+	"heroAboutItemDescriptionB": {
+		"pt": "No frontend costumo trabalhar com Frameworks CSS e Vue. No backend trabalho normalmente com PHP, Node ou soluções Serveless. Também implemento soluções CMS de mercado.",
+		"en": "In the frontend I work with CSS Frameworks and Vue. In the backend I usualy work with PHP, Node ou soluções Serveless. I also implement market CMS solutions."
+	},
+	"heroAboutItemButtonB": {
+		"pt": "GitHub",
+		"en": "Github"
+	},
+	"heroAboutItemTitleC": {
+		"pt": "Profissionalismo",
+		"en": "Work Ethic"
+	},
+	"heroAboutItemDescriptionC": {
+		"pt": "Adapto sempre o meu leque de ferramentas ao projeto que tenho em mãos. Conto com colaboradores frequentes para ajudar em fases de maior demanda ou em áreas especificas",
+		"en": "I always adapt my skill set to the project I am working on. I count on frequent collaborators to help in phases of higher demand or in specific areas"
+	},
+	"heroAboutItemButtonC": {
+		"pt": "Portfolio",
+		"en": "Portfolio"
+	},
+	"heroAboutItemTitleD": {
+		"pt": "FomeDeAprender",
+		"en": "HungryLearner"
+	},
+	"heroAboutItemDescriptionD": {
+		"pt": "Apesar de fazer formações certificadas, sou autodidata a maior parte do tempo. Priorizo a documentação oficial mas também faço alguns cursos e tutoriais online.",
+		"en": "Despite doing certified training, I am self-taught most of the time. I priorize the official documentation but in addiction I enroll some online courses and tutorials."
+	},
+	"heroAboutItemButtonD": {
+		"pt": "Formação",
+		"en": "Education"
+	},
+	"heroLinkTitle": {
+		"pt": "Antes de ir embora",
+		"en": "Before you left"
+	},
+	"heroLinkDescription": {
+		"pt": "Algumas sugestões antes de abandonar a página principal.",
+		"en": "Some suggestions before you left the homepage."
+	},
+	"heroLinkTitleA": {
+		"pt": "Links",
+		"en": "Links"
+	},
+	"heroLinkDescriptionA": {
+		"pt": "Cnosulte alguns links sobre o meu trabalho",
+		"en": "Check some links about my work."
+	},
+	"heroLinkTitleB": {
+		"pt": "Blog",
+		"en": "Blog"
+	},
+	"heroLinkDescriptionB": {
+		"pt": "Consulte as publicações deste site.",
+		"en": "Check the post from this site."
+	},
+	"heroPathTitle": {
+		"pt": "Informações extra",
+		"en": "Extra information"
+	},
+	"heroPathDescription": {
+		"pt": "Um pouco mais sobre mim: Formação e percurso.",
+		"en": "Know me better: Education and path."
+	},
+	"heroPathIntroductionA": {
+		"pt": "Eu normalmente utilizo a documentação oficial como base de estudo, completando-a com cursos, tutoriais on-line e a ajuda da comunidade.",
+		"en": "I normally use official documentation as a basis for study, supplementing it with online courses, tutorials and community help."
+	},
+	"heroPathIntroductionB": {
+		"pt": "Conheça algumas etapas da minha vida",
+		"en": "Know some stages of my life"
+	},
+	"heroPathItemTitleA": {
+		"pt": "Formação",
+		"en": "Education"
+	},
+	"heroPathItemTitleB": {
+		"pt": "Percurso",
+		"en": "Path"
+	},
+	"heroPathLastA": {
+		"pt": "E muitas mais horas... #NuncaDeixesDeAprender",
+		"en": "And many more hours... #NeverStopLearning"
+	},
+	"heroPathLastB": {
+		"pt": "# Nunca Deixes de Aprender",
+		"en": "# Never Stop Learning"
+	},
+	"heroTimelineItemTitleA": {
+		"pt": "Nasci nos Açores",
+		"en": "Born in Azores"
+	},
+	"heroTimelineItemLinkA": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleB": {
+		"pt": "Aprendi a ler nos Fenais da Luz",
+		"en": "Learn to read in Fenais da Luz"
+	},
+	"heroTimelineItemLinkB": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleC": {
+		"pt": "Os meus pais ofereceram-me o primeiro PC",
+		"en": "My parents buy my first PC"
+	},
+	"heroTimelineItemLinkC": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleD": {
+		"pt": "Passei uma infância feliz",
+		"en": "Enjoy a happy childhood"
+	},
+	"heroTimelineItemDescriptionD": {
+		"pt": "Jogando à bola, videojogos e tocando trompete",
+		"en": "Playing soccer, videogames and trumpet"
+	},
+	"heroTimelineItemLinkD": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleE": {
+		"pt": "Ganhei os meus primeiros ordenados",
+		"en": "Earn my first paychecks"
+	},
+	"heroTimelineItemDescriptionE": {
+		"pt": "Como instrutor de música e na agricultura",
+		"en": "As music teatcher and in agriculture"
+	},
+	"heroTimelineItemLinkE": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleF": {
+		"pt": "Acabei o secundário (Ponta Delgada)",
+		"en": "Finish High School (Ponta Delgada)"
+	},
+	"heroTimelineItemDescriptionF": {
+		"pt": "Pelo meio arranjei os computadores da vizinhança",
+		"en": "In the way, repaired some neighbourhoods computers"
+	},
+	"heroTimelineItemLinkF": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleG": {
+		"pt": "Acabei o Mestrado de Engenharia do Ambiente (Faro)",
+		"en": "Finish the Master in Environmental Engineering (Faro)"
+	},
+	"heroTimelineItemDescriptionG": {
+		"pt": "Tive o meu primeiro contato com código e base de dados, nada sério",
+		"en": "Have my first contact with code and database, nothing serious!"
+	},
+	"heroTimelineItemLinkG": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleH": {
+		"pt": "Trabalhei 4 anos na Musami (Açores)",
+		"en": "Work 4 years in Musami (Azores)"
+	},
+	"heroTimelineItemDescriptionH": {
+		"pt": "Uma empresa multi municipal de Gestão de Resíduos Urbanos",
+		"en": "A multi municipal company of Solid Waste Management"
+	},
+	"heroTimelineItemLinkH": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleI": {
+		"pt": "Trabalhei 2,5 anos na J.M. Duarte (Portimão)",
+		"en": "Work 2.5 years in J.M. Duarte (Portimão)"
+	},
+	"heroTimelineItemDescriptionI": {
+		"pt": "Uma empresa de apicultura",
+		"en": "A beekeeping company"
+	},
+	"heroTimelineItemLinkI": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleJ": {
+		"pt": "Tirei um ano sabático para estudar e programar",
+		"en": "Take a gap year to study and code"
+	},
+	"heroTimelineItemLinkJ": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroTimelineItemTitleK": {
+		"pt": "Comecei a trabalhar como Freelancer",
+		"en": "Star to work as a Freelancer"
+	},
+	"heroTimelineItemLinkK": {
+		"pt": "https://www.facebook.com/hernanifelixmedeiros/",
+		"en": "https://www.facebook.com/hernanifelixmedeiros/"
+	},
+	"heroPortfolioTitle": {
+		"pt": "Portfólio",
+		"en": "Portfolio"
+	},
+	"heroPortfolioDescription": {
+		"pt": "Não deixes de espreitar os meus projetos pessoais, o site da minha agência digital, colaborações com outros profissionais de T.I. e os meus estudos no github.",
+		"en": "Check my solo projects, my digital agency website, colabs with other I.T. guys and my studies in github."
+	},
+	"heroPortfolioItemA": {
+		"pt": "Projetos Pessoais",
+		"en": "Solo Projects"
+	},
+	"heroPortfolioItemB": {
+		"pt": "A minha Agência Digital",
+		"en": "My Digital Agency"
+	},
+	"heroPortfolioItemC": {
+		"pt": "Trabalhos em Colaboração",
+		"en": "Colaboration Works"
+	},
+	"heroPortfolioItemD": {
+		"pt": "Lab/estudos no Github",
+		"en": "Lab/studies in Github"
+	},
+	"homeTitle": {
+		"pt": "Hernâni Medeiros",
+		"en": "Hernani Medeiros"
+	},
+	"homeSubTitle": {
+		"pt": "Desenvolvedor Web @Portimão",
+		"en": "Web Developer @Portugal"
+	},
+	"homeDescription": {
+		"pt": "Desenvolvedor Web focado nos resultados de negócios online. Atualmente trabalhando e estudando Vue, Node JS, PHP, CMS e Serverless.",
+		"en": "Web Developer focused on online business results. Currently working and studying Vue, Node JS, PHP, CMS and Serverless."
+	},
+	"homeButton": {
+		"pt": "Ver projetos",
+		"en": "Check my blog"
+	},
+	"homeAboutTitle": {
+		"pt": "Sobre:",
+		"en": "About:"
+	},
+	"homeAbout": {
+		"pt": "Saber mais sobre mim",
+		"en": "Know more about me"
+	},
+	"incompletedMessageA": {
+		"pt": "Atenção!",
+		"en": "Attention!"
+	},
+	"incompletedMessageB": {
+		"pt": "Você limpou os campos, tente mais uma vez.",
+		"en": "You cleared the fields, try again."
+	},
+	"languageTitle": {
+		"pt": "Escolha um idioma / Choose a language",
+		"en": "Escolha um idioma / Choose a language"
+	},	
+	"languageSelection": {
+		"pt": "PT",
+		"en": "EN"
+	},
+	"navBarService": {
+		"pt": "Projetos",
+		"en": "Projects"
+	},
+	"navBarAbout": {
+		"pt": "Sobre",
+		"en": "About"
+	},
+	"navigationIndex": {
+		"pt": "",
+		"en": ""
+	},
+	"navigationProject": {
+		"pt": "projetos",
+		"en": "projects"
+	},
+	"navigationProjectSolo": {
+		"pt": "projetos/#SoloProjects",
+		"en": "projects/#SoloProjects"
+	},
+	"navigationProjectTeam": {
+		"pt": "projetos/#TeamProjects",
+		"en": "projects/#TeamProjects"
+	},
+	"navigationBlog": {
+		"pt": "blogue",
+		"en": "blog"
+	},
+	"optionsTitle": {
+		"pt": "Dei os retoques finais",
+		"en": "Make your final touch"
+	},
+	"optionsSubTitle": {
+		"pt": "Personalize o seu C.V.",
+		"en": "Customize your C.V."
+	},
+	"optionsLabelColor": {
+		"pt": "Faixa lateral",
+		"en": "Side wrapper"
+	},
+	"optionsLabelElement": {
+		"pt": "Mostrar elementos",
+		"en": "Show elements"
+	},
+	"optionsBackground": {
+		"pt": "Cor de fundo:",
+		"en": "Background color:"
+	},
+	"optionsColor": {
+		"pt": "Cor do texto:",
+		"en": "Text color:"
+	},
+	"optionsExample": {
+		"pt": "Pré-visualizar",
+		"en": "Preview"
+	},
+	"projectTitle": {
+		"pt": "Projetos",
+		"en": "Projects"
+	},
+	"projectDescription": {
+		"pt": "Consulte abaixo alguns dos meus projetos",
+		"en": "See below some of my projects"
+	},
+	"projectSoloTitle": {
+		"pt": "Projectos a solo",
+		"en": "Solo projects"
+	},
+	"projectTeamTitle": {
+		"pt": "Projectos em equipa",
+		"en": "Team projects"
+	},
+	"projectMemorieTitle": {
+		"pt": "Memorias de projetos",
+		"en": "Projects memories"
+	},
+	"shareTitle": {
+		"pt": "Partilhar",
+		"en": "Share"
+	},
+	"successLabel": {
+		"pt": "Um Curriculum Vitae bonito e moderno",
+		"en": "Obtain a marvelous and modern Curriculum Vitae"
+	},
+	"successWish": {
+		"pt": "A equipa do CvGenerator deseja-te muitos sucessos profissionais e pessoais",
+		"en": "The CvGenerator team wish you a great professional and personal success"
+	},
+	"testimonialA": {
+		"pt": "Um bom rapaz, trabalhador e responsável.",
+		"en": "A good guy, hardworking and responsible."
+	},
+	"testimonialFooterA": {
+		"pt": "Mãe - 2020",
+		"en": "Mom - 2020"
+	},
+	"testimonialB": {
+		"pt": "Nunca me deixou ficar mal...",
+		"en": "He never let me down ..."
+	},
+	"testimonialFooterB": {
+		"pt": "Pai - 2021",
+		"en": "Father - 2021"
+	},
+	"searchPost": {
+		"pt": "Sente-se com sorte?",
+		"en": "Felling lucky?"
+	},
+	"lorem": {
+		"pt": "Lorem (pt) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"en": "Lorem (en) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+	},
+	"loremMid": {
+		"pt": "Lorem (pt) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"en": "Lorem (en) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	"loremShort": {
+		"pt": "Lorem (pt) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"en": "Lorem (en) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	"loremSubTitle": {
+		"pt": "Lorem (pt) ipsum dolor sit amet",
+		"en": "Lorem (en) ipsum dolor sit amet"
+	},
+	"loremTitle": {
+		"pt": "Lorem (pt) ipsum",
+		"en": "Lorem (en) ipsum"
+	}
+}	

@@ -1,0 +1,74 @@
+{
+	"metaWelcomeTitle": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web - Início",
+		"en": "Hernani Medeiros - Web Developer - Homepage"
+	},
+	"metaWelcomeDescription": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web. Contactos, perfil, portfolio e blog.",
+		"en": "Hernani Medeiros - Web Developer. Contacts, profile, portfolio and blog."
+	},
+	"metaWelcomeKeyword": {
+		"pt": "Desenvolvedor Web, Hernâni Medeiros, Inicio, Vue, Nuxt, Node, PHP, Serverless, Github",
+		"en": "Web Developer, Hernani Medeiros. Vue, Homepage, Nuxt, Node, PHP, Serverless, Github"
+	},
+	"metaHomeTitle": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web - Perfil",
+		"en": "Hernani Medeiros - Web Developer - Profile"
+	},
+	"metaHomeDescription": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web. Contactos, curiculo, perfil completo, portfolio e blog.",
+		"en": "Hernani Medeiros - Web Developer. Contacts, curiculum, complete profile, portfolio and blog."
+	},
+	"metaHomeKeyword": {
+		"pt": "Desenvolvedor Web, Hernâni Medeiros, Inicio, Vue, Nuxt, Node, PHP, Serverless, Github",
+		"en": "Web Developer, Hernani Medeiros. Vue, Homepage, Nuxt, Node, PHP, Serverless, Github"
+	},
+	"metaPrivacyTitle": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web, Política de Privacidade",
+		"en": "Hernani Medeiros - Web Developer, Privacy Policy"
+	},
+	"metaPrivacyDescription": {
+		"pt": "Hernâni Medeiros - Política de Privacidade (hernanimedeiros.com)",
+		"en": "Hernani Medeiros - Privacy Policy (hernanimedeiros.com)"
+	},
+	"metaPrivacyKeyword": {
+		"pt": "Hernâni Medeiros, Política de Privacidade",
+		"en": "Hernani Medeiros, Privacy Policy"
+	},
+	"metaProjectTitle": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web - Projetos",
+		"en": "Hernani Medeiros - Web Developer - Projects"
+	},
+	"metaProjectDescription": {
+		"pt": "Hernâni Medeiros - Projectos (Desenvolvedor Web). Programação, implementação, tecnologias web.",
+		"en": "Hernani Medeiros - Projects (Web Developer). Programing, implementation and web technologies."
+	},
+	"metaProjectKeyword": {
+		"pt": "Hernâni Medeiros, Projectos, Desenvolvedor Web, Vue, Nuxt, Node, PHP, Serverless, Github",
+		"en": "Hernani Medeiros, Projects, Web Developer, Vue, Nuxt, Node, PHP, Serverless, Github"
+	},
+	"metaBlogTitle": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web - Blog",
+		"en": "Hernani Medeiros - Web Developer - Blog"
+	},
+	"metaBlogDescription": {
+		"pt": "Hernâni Medeiros - Blog (Desenvolvedor Web). Programação, implementação, tecnologias web.",
+		"en": "Hernani Medeiros - Blog (Web Developer). Programing, implementation and web technologies."
+	},
+	"metaBlogKeyword": {
+		"pt": "Hernâni Medeiros, Blog, Desenvolvedor Web, Projectos e estudos em Vue, Nuxt, Node e PHP.",
+		"en": "Hernani Medeiros, Blog, Web Developer, Projects and studies in Vue, Nuxt, Node and PHP."
+	},
+	"metaLabTitle": {
+		"pt": "Hernâni Medeiros - Desenvolvedor Web - Lab",
+		"en": "Hernani Medeiros - Web Developer - Lab"
+	},
+	"metaLabDescription": {
+		"pt": "Hernâni Medeiros - Vue/Nuxt Lab",
+		"en": "Hernani Medeiros - Vue/Nuxt Lab"
+	},
+	"metaLabKeyword": {
+		"pt": "Hernâni Medeiros, Vue/Nuxt Lab",
+		"en": "Hernani Medeiros, Vue/Nuxt Lab"
+	}
+}	

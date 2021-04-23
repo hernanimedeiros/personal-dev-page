@@ -1,0 +1,44 @@
+{
+	"items": [
+		{
+			"id": 0,
+			"title": "Github Repo",
+			"type": "Solo",
+			"image": "project-github.jpeg",
+			"link": "https://github.com/hernanimedeiros",
+			"description": "My open source repository of projects/tests",
+			"year": "2020",
+			"level":"highlighted"
+		},
+		{
+			"id": 1,
+			"title": "CV Generator",
+			"type": "Solo",
+			"image": "project-cv-generator.jpeg",
+			"link": "https://cv-generator-nuxt.netlify.app/cv/",
+			"description": "Generate your CV and save it to pdf",
+			"year": "2020",
+			"level":"highlighted"
+		},
+		{
+			"id": 2,
+			"title": "Personal page",
+			"type": "Solo",
+			"image": "project-personal-page-com.jpeg",
+			"link": "https://github.com/hernanimedeiros",
+			"description": "Learning vue/nuxt",
+			"year": "2020",
+			"level":"highlighted"
+		},
+		{
+			"id": 3,
+			"title": "Coming Soon",
+			"type": "Team",
+			"image": "project-coming-son.jpg",
+			"link": "https://github.com/hernanimedeiros",
+			"description": "Loading... :)",
+			"year": "2020",
+			"level":"highlighted"
+		}
+	]
+}

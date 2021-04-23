@@ -1,0 +1,20 @@
+{
+	"items": [
+		{
+			"id": 0,
+			"title": "Personal Page with blog in Nuxt (Layout)",
+			"description": "Backstage of my personal page build with Nuxt in 2021 (Layout)",
+			"img": "backstage-personal-page-mobile-layout.jpeg",
+			"alt": "backstage-personal-page-mobile-layout",
+			"link": "https://github.com/hernanimedeiros"
+		},
+		{
+			"id": 0,
+			"title": "Personal Page with blog in Nuxt (VS-Code)",
+			"description": "Backstage of my personal page build with Nuxt in 2021 (VS-Code)",
+			"img": "backstage-personal-page-vs-code.jpeg",
+			"alt": "backstage-personal-page-vs-code",
+			"link": "https://github.com/hernanimedeiros"
+		}
+	]
+}
