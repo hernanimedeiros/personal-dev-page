@@ -78,10 +78,6 @@ export default {
 
 <style scoped >
 .cookie-message {
-  opacity: 0.60;
-}
-
-.cookie-message:hover {
   opacity: 1;
 }
 

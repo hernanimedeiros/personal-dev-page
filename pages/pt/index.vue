@@ -3,7 +3,6 @@
     <DinamicNavMobile
       :content="content"
       :language="language"
-      :preferences="preferences"
       class="nav-mobile"
     />
     <b-row>
@@ -15,7 +14,6 @@
         <DinamicNavDesktop
           :content="content"
           :language="language"
-          :preferences="preferences"
           class="p-0 mx-auto sidebar-inner"
         />
       </b-col>
