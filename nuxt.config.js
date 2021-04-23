@@ -4,13 +4,13 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'hernani_medeiros',
+    title: 'hernani_medeiros_web_developer',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'author', content: 'Hernâni Medeiros'},
-      { hid: 'keywords', name: 'keywords', content: 'curriculum vitae, curriculum generator'},
-      { hid: 'description', name: 'description', content: 'curriculum vitae generator' }
+      { hid: 'keywords', name: 'keywords', content: 'hernani_medeiros_web_developer'},
+      { hid: 'description', name: 'description', content: 'hernani_medeiros_web_developer_personal_page' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
