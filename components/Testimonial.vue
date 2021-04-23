@@ -40,7 +40,7 @@ export default {
   name: 'Testimonial',
   // Properties received from parent
   props: {
-    content: String,
+    content: Object,
     language: String
   }
 }
