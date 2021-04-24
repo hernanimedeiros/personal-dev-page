@@ -2,17 +2,13 @@
   <b-container fluid class="landing-point bg-index d-flex justify-content-center">
     <b-container class="text-center pt-5">
       <b-jumbotron class="bg-transparent pt-5 pb-3 mb-3" text-variant="white">
-        <template #header>
-          <h1 class="big-title">
-            Hernâni Medeiros
-          </h1>
-        </template>
-        <template #lead>
-          <h2 class="big-sub-title" text-variant="white">
-            Web Developer
-          </h2>
-          <SocialIconSmall />
-        </template>
+        <h1 class="big-title">
+          Hernâni Medeiros
+        </h1>
+        <h2 class="big-sub-title" text-variant="white">
+          Web Developer
+        </h2>
+        <SocialIconSmall />
         <p class="my-3 lead">
           Web Developer focus in client results. Currently working on Vue/Nuxt, Node JS, PHP and Wordpress
         </p>
