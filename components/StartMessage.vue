@@ -9,7 +9,7 @@
       <!-- Message -->
       <b-link
         href="https://webtop.pt"
-        taget="_blank"
+        target="_blank"
       >
         For agency services, click me and check my Digital Agency homepage (Webtop).
       </b-link>
@@ -23,7 +23,7 @@
       <!-- Message -->
       <b-link
         href="https://hernanimedeiros.pt"
-        taget="_blank"
+        target="_blank"
       >
         For my digital consulting services, click me and check my personal services page.
       </b-link>
@@ -37,7 +37,7 @@
       <!-- Message -->
       <b-link
         href="https://www.linkedin.com/in/hernanimedeiros/"
-        taget="_blank"
+        target="_blank"
       >
         Connect to my at Linkedin.
       </b-link>
