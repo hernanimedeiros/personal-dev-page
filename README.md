@@ -1,5 +1,5 @@
 # personal-dev-page
-My personal dev homepage build with [Nuxt](https://nuxtjs.org).
+*My personal dev homepage build with [Nuxt](https://nuxtjs.org).*
 
 There you can enjoy my personal profile, portfolio and blog (the last under construction).
 

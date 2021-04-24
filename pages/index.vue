@@ -10,7 +10,7 @@
         </h2>
         <SocialIconSmall />
         <p class="my-3 lead">
-          Web Developer focus in client results. Currently working on Vue/Nuxt, Node JS, PHP and Wordpress
+          Web Developer focus in client results. Currently working on Vue, Node JS, PHP, Serverless and CMS solutions
         </p>
         <b-row>
           <b-col md="6">
