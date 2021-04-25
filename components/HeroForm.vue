@@ -63,6 +63,7 @@
         name="contact"
         method="POST"
         data-netlify="true"
+        data-netlify-recaptcha="true"
         @submit="onSubmit"
         @reset="onReset"
       >
@@ -118,39 +119,37 @@
           id="input-group-check"
           v-slot="{ ariaDescribedby }"
         >
-          <b-form-checkbox-group
-            id="input-form-check"
+          <b-form-checkbox
+            id="checkbox-accept"
             v-model="form.checked"
+            name="checkbox-accept"
+            value="accepted"
+            unchecked-value="not_accepted"
             :aria-describedby="ariaDescribedby"
             required
           >
-            <b-form-checkbox
-              value=true
-              required
-            >
-              <small>
-                {{ content.formUserAgreement[language] }}
-                <b-link
-                  v-if="language === 'pt'"
-                  href="./pt/politica-privacidade"
-                  target="_blank"
-                >
-                  <strong>
-                    {{ content.formUserAgreementLink[language] }}
-                  </strong>
-                </b-link>
-                <b-link
-                  v-else-if="language === 'en'"
-                  href="./en/privacy-policy"
-                  target="_blank"
-                >
-                  <strong>
-                    {{ content.formUserAgreementLink[language] }}
-                  </strong>
-                </b-link>
-              </small>
-            </b-form-checkbox>
-          </b-form-checkbox-group>
+            <small>
+              {{ content.formUserAgreement[language] }}
+              <b-link
+                v-if="language === 'pt'"
+                href="./pt/politica-privacidade"
+                target="_blank"
+              >
+                <strong>
+                  {{ content.formUserAgreementLink[language] }}
+                </strong>
+              </b-link>
+              <b-link
+                v-else-if="language === 'en'"
+                href="./en/privacy-policy"
+                target="_blank"
+              >
+                <strong>
+                  {{ content.formUserAgreementLink[language] }}
+                </strong>
+              </b-link>
+            </small>
+          </b-form-checkbox>
         </b-form-group>
         <b-button
           v-show="form.checked"
@@ -185,7 +184,7 @@ export default {
         email: '',
         name: '',
         message: '',
-        checked: []
+        checked: 'not_accepted'
       },
       netlifyForm: false,
       googleForm: false
