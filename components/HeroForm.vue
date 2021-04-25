@@ -63,8 +63,9 @@
         name="contact"
         method="POST"
         data-netlify="true"
+        data-netlify-honeypot="bot-field"
         data-netlify-recaptcha="true"
-        @submit="onSubmit"
+        @submit.prevent="onSubmit"
         @reset="onReset"
       >
         <!-- Name -->
@@ -170,6 +171,8 @@
 </template>
 
 <script>
+// Import
+import axios from 'axios'
 export default {
   // Name and components
   name: 'HeroForm',
@@ -245,23 +248,36 @@ export default {
       })
     },
     // Submit
-    onSubmit (event) {
-      event.preventDefault()
+    onSubmit () {
+      // Reset our form values
+      const axiosConfig = {
+        header: { 'Content-Type': 'application/x-www-form-urlencoded' }
+      }
+      axios.post(
+        '/',
+        this.encode({
+          'form-name': 'contact',
+          ...this.form
+        }),
+        axiosConfig
+      )
       this.completedToast()
       this.netlifyForm = false
-      this.form.email = ''
-      this.form.name = ''
-      this.form.message = ''
-      this.form.checked = []
+    },
+    // Encode
+    encode (data) {
+      return Object.keys(data)
+        .map(
+          key => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`
+        )
+        .join('&')
     },
     // Reset
     onReset (event) {
-      event.preventDefault()
-      // Reset our form values
       this.form.email = ''
       this.form.name = ''
       this.form.message = ''
-      this.form.checked = []
+      this.form.checked = 'not_accepted'
       // Trick to reset/clear native browser form validation state
       this.show = false
       this.$nextTick(() => {
