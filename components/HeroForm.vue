@@ -62,9 +62,9 @@
       <b-form
         name="contact"
         method="POST"
-        data-netlify="true"
+        data-netlify
+        data-netlify-recaptcha
         data-netlify-honeypot="bot-field"
-        data-netlify-recaptcha="true"
         @reset="onReset"
       >
         <input
