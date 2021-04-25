@@ -61,7 +61,6 @@
     <b-container v-show="netlifyForm">
       <b-form
         name="contact"
-        action=""
         method="post"
         data-netlify="true"
         data-netlify-recaptcha="true"
