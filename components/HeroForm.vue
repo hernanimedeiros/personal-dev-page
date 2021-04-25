@@ -159,10 +159,8 @@
             </small>
           </b-form-checkbox>
         </b-form-group>
-        <b-container data-netlify-recaptcha="true">
-          <div class="g-recaptcha" data-sitekey="6LdCRLkaAAAAAEHcgJdJ5j53ESzjz4mllh04b4cx"></div>
-        </b-container>
         <div class="g-recaptcha" data-sitekey="6LdCRLkaAAAAAEHcgJdJ5j53ESzjz4mllh04b4cx"></div>
+        <div data-netlify-recaptcha="true"></div>
         <b-button
           type="submit"
           variant="info"
