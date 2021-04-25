@@ -63,8 +63,8 @@
         name="contact"
         action=""
         method="post"
-        netlify
-        data-netlify-recaptcha
+        data-netlify="true"
+        data-netlify-recaptcha="true"
         data-netlify-honeypot="bot-field"
         @reset="onReset"
       >
@@ -85,6 +85,7 @@
             id="form-input-name"
             v-model="form.name"
             type="text"
+            name="fname"
             :placeholder="content.formInputNamePlaceholder[language]"
             required
           />
@@ -101,6 +102,7 @@
             id="form-input-email"
             v-model="form.email"
             type="email"
+            name="femail"
             :placeholder="content.formInputEmailPlaceholder[language]"
             required
           />
@@ -116,7 +118,7 @@
           <b-form-textarea
             id="form-input-message"
             v-model="form.message"
-            type="text"
+            name="fmessage"
             :placeholder="content.formInputMessagePlaceholder[language]"
             rows="5"
           />
@@ -128,7 +130,7 @@
           <b-form-checkbox
             id="checkbox-accept"
             v-model="form.checked"
-            name="checkbox-accept"
+            name="fcheckbox"
             value="accepted"
             unchecked-value="not_accepted"
             :aria-describedby="ariaDescribedby"
