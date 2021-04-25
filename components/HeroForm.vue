@@ -248,8 +248,8 @@ export default {
     // Submit
     onSubmit (event) {
       event.preventDefault()
-      alert(JSON.stringify(this.form))
       this.completedToast()
+      this.netlifyForm = false
     },
     // Reset
     onReset (event) {
