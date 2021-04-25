@@ -158,7 +158,6 @@
           </b-form-checkbox>
         </b-form-group>
         <b-button
-          v-show="form.checked"
           type="submit"
           variant="info"
         >
