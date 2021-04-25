@@ -63,11 +63,10 @@
         name="contact"
         method="post"
         data-netlify="true"
-        data-netlify-recaptcha="true"
         data-netlify-honeypot="bot-field"
         @reset="onReset"
       >
-        <input
+        <b-form-input
           type="hidden"
           name="form-name"
           value="contact"
