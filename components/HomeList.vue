@@ -9,7 +9,7 @@
     </header>
     <section>
       <HeroAbout :language="language" :content="content" />
-      <Contact :language="language" :content="content" />
+      <Contact id="ContactAnchor" :language="language" :content="content" />
       <HeroPortfolio :language="language" :content="content" />
       <HeroPath :language="language" :content="content" />
       <Testimonial :language="language" :content="content" />

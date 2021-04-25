@@ -79,13 +79,6 @@ export default {
           name: 'keywords',
           content: this.meta.metaHomeKeyword[this.language]
         }
-      ],
-      script: [
-        {
-          src: 'https://www.google.com/recaptcha/api.js',
-          async: true,
-          defer: true
-        }
       ]
     }
   }
