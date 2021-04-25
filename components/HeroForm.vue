@@ -60,16 +60,17 @@
     <!-- Netlify Form-->
     <b-container v-show="netlifyForm">
       <b-form
-        name="contact"
+        name="messages"
         method="post"
         data-netlify="true"
+        data-netlify-recaptcha="true"
         data-netlify-honeypot="bot-field"
         @reset="onReset"
       >
         <b-form-input
           hidden
           name="form-name"
-          value="contact"
+          value="messages"
         />
         <!-- Name -->
         <b-form-group
@@ -83,7 +84,7 @@
             id="form-input-name"
             v-model="form.name"
             type="text"
-            name="fname"
+            name="name"
             :placeholder="content.formInputNamePlaceholder[language]"
             required
           />
@@ -100,7 +101,7 @@
             id="form-input-email"
             v-model="form.email"
             type="email"
-            name="femail"
+            name="email"
             :placeholder="content.formInputEmailPlaceholder[language]"
             required
           />
@@ -116,7 +117,7 @@
           <b-form-textarea
             id="form-input-message"
             v-model="form.message"
-            name="fmessage"
+            name="message"
             :placeholder="content.formInputMessagePlaceholder[language]"
             rows="5"
           />
@@ -128,7 +129,7 @@
           <b-form-checkbox
             id="checkbox-accept"
             v-model="form.checked"
-            name="fcheckbox"
+            name="checkbox"
             value="accepted"
             unchecked-value="not_accepted"
             :aria-describedby="ariaDescribedby"
@@ -158,6 +159,7 @@
             </small>
           </b-form-checkbox>
         </b-form-group>
+        <div data-netlify-recaptcha="true"></div>
         <b-button
           type="submit"
           variant="info"
