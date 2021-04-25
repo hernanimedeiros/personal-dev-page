@@ -64,7 +64,6 @@
         method="post"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
-        action="#ContactAnchor"
         @reset="onReset"
       >
         <b-form-input
