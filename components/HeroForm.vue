@@ -67,6 +67,11 @@
         data-netlify-recaptcha="true"
         @reset="onReset"
       >
+        <input
+          type="hidden"
+          name="form-name"
+          value="contact"
+        >
         <!-- Name -->
         <b-form-group
           id="form-group-name"
