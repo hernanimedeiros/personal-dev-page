@@ -127,6 +127,7 @@
             unchecked-value="not_accepted"
             :aria-describedby="ariaDescribedby"
             required
+            @change="completedToast"
           >
             <small>
               {{ content.formUserAgreement[language] }}
@@ -231,11 +232,13 @@ export default {
     },
     // Toasts
     completedToast () {
-      this.$bvToast.toast(this.content.completedMessageB[this.language], {
-        title: this.content.completedMessageA[this.language],
-        variant: 'success',
-        solid: true
-      })
+      if (this.form.checked === 'accepted') {
+        this.$bvToast.toast(this.content.completedMessageB[this.language], {
+          title: this.content.completedMessageA[this.language],
+          variant: 'success',
+          solid: true
+        })
+      }
     },
     incompletedToast () {
       this.$bvToast.toast(this.content.incompletedMessageB[this.language], {
@@ -243,15 +246,6 @@ export default {
         variant: 'warning',
         solid: true
       })
-    },
-    // Submit
-    onSubmit (event) {
-      this.completedToast()
-      this.netlifyForm = false
-      this.form.email = ''
-      this.form.name = ''
-      this.form.message = ''
-      this.form.checked = 'not_accepted'
     },
     // Reset
     onReset (event) {
