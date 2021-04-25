@@ -67,10 +67,10 @@
         @reset="onReset"
       >
         <b-form-input
-          type="hidden"
+          hidden
           name="form-name"
           value="contact"
-        >
+        />
         <!-- Name -->
         <b-form-group
           id="form-group-name"
