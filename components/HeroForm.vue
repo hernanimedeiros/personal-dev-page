@@ -193,7 +193,7 @@ export default {
         message: '',
         checked: 'not_accepted'
       },
-      netlifyForm: false,
+      netlifyForm: true,
       googleForm: false
     }
   },
