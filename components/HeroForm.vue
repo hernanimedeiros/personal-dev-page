@@ -61,8 +61,9 @@
     <b-container v-show="netlifyForm">
       <b-form
         name="contact"
-        method="POST"
-        data-netlify
+        action=""
+        method="post"
+        netlify
         data-netlify-recaptcha
         data-netlify-honeypot="bot-field"
         @reset="onReset"
