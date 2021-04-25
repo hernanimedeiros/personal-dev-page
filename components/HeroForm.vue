@@ -60,14 +60,13 @@
     <!-- Netlify Form-->
     <b-container v-show="netlifyForm">
       <b-form
-        method="post"
+        name="contact"
+        method="POST"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
         data-netlify-recaptcha="true"
-        @submit.prevent="onSubmit"
         @reset="onReset"
       >
-        <input type="hidden" name="form-name" value="contact" />
         <!-- Name -->
         <b-form-group
           id="form-group-name"
@@ -171,8 +170,6 @@
 </template>
 
 <script>
-// Import
-import axios from 'axios'
 export default {
   // Name and components
   name: 'HeroForm',
@@ -248,29 +245,13 @@ export default {
       })
     },
     // Submit
-    onSubmit () {
-      // Reset our form values
-      const axiosConfig = {
-        header: { 'Content-Type': 'application/x-www-form-urlencoded' }
-      }
-      axios.post(
-        '/',
-        this.encode({
-          'form-name': 'contact',
-          ...this.form
-        }),
-        axiosConfig
-      )
+    onSubmit (event) {
       this.completedToast()
       this.netlifyForm = false
-    },
-    // Encode
-    encode (data) {
-      return Object.keys(data)
-        .map(
-          key => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`
-        )
-        .join('&')
+      this.form.email = ''
+      this.form.name = ''
+      this.form.message = ''
+      this.form.checked = 'not_accepted'
     },
     // Reset
     onReset (event) {
