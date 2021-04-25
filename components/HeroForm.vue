@@ -120,7 +120,7 @@
         >
           <b-form-checkbox-group
             id="input-form-check"
-            v-model="form.check"
+            v-model="form.checked"
             :aria-describedby="ariaDescribedby"
             required
           >
@@ -250,6 +250,10 @@ export default {
       event.preventDefault()
       this.completedToast()
       this.netlifyForm = false
+      this.form.email = ''
+      this.form.name = ''
+      this.form.message = ''
+      this.form.checked = []
     },
     // Reset
     onReset (event) {
