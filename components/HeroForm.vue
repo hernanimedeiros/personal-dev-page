@@ -60,13 +60,14 @@
     <!-- Netlify Form-->
     <b-container v-show="netlifyForm">
       <b-form
-        name="contact"
+        method="post"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
         data-netlify-recaptcha="true"
         @submit.prevent="onSubmit"
         @reset="onReset"
       >
+        <input type="hidden" name="form-name" value="contact" />
         <!-- Name -->
         <b-form-group
           id="form-group-name"
