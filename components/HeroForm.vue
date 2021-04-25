@@ -159,7 +159,7 @@
             </small>
           </b-form-checkbox>
         </b-form-group>
-        <div class="g-recaptcha" data-sitekey="6LdCRLkaAAAAAEHcgJdJ5j53ESzjz4mllh04b4cx"></div>
+        <div class="g-recaptcha py-3" data-sitekey="6LdCRLkaAAAAAEHcgJdJ5j53ESzjz4mllh04b4cx" :hl="language"></div>
         <b-button
           type="submit"
           variant="info"
@@ -194,8 +194,8 @@ export default {
         message: '',
         checked: 'not_accepted'
       },
-      netlifyForm: true,
-      googleForm: false
+      netlifyForm: false,
+      googleForm: true
     }
   },
   computed: {
