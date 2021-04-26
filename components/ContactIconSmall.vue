@@ -24,7 +24,7 @@
       </b-link>
       <!-- Mail -->
       <b-link
-        href="mailto:hernanimedeiros@hotmail.com?Subject=CvGenerator%20contato"
+        href="mailto:hernanimedeiros@hotmail.com?Subject=Contact%20Hernani%20Medeiros"
         target="_blank"
       >
         <b-icon
