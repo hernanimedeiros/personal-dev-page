@@ -38,7 +38,7 @@
       </b-container>
       <b-container class="pt-5">
         <strong class="text-primary">
-          This website uses cookies to facilitate navigation and to obtain statistical data. By continuing to use our website, you agree to its use an our
+          This website uses cookies to facilitate navigation and to obtain statistical data. By continuing to use our website, you agree to its use and our
         </strong>
         <b-link
           href="./en/privacy-policy"
