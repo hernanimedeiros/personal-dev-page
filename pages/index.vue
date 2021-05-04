@@ -33,16 +33,18 @@
           </b-col>
         </b-row>
       </b-jumbotron>
-      <b-container class="pt-5">
-        <StartMessage :variant="variant" />
+      <b-container class="pt-3 pb-5">
+        <StartMessage />
       </b-container>
-      <b-container class="text-whitesmoke pt-5 pb-3">
-        This website uses cookies to facilitate navigation and to obtain statistical data. By continuing to use our website, you agree to its use an our
+      <b-container class="pt-5">
+        <strong class="text-primary">
+          This website uses cookies to facilitate navigation and to obtain statistical data. By continuing to use our website, you agree to its use an our
+        </strong>
         <b-link
           href="./en/privacy-policy"
           target="_blank"
         >
-          <ins>
+          <ins class="text-info">
             Privacy Policy.
           </ins>
         </b-link>
@@ -73,9 +75,7 @@ export default {
       content: ContentJson,
       meta: MetaJson,
       // Language
-      language: 'en',
-      // Alert variant
-      variant: 'info'
+      language: 'en'
     }
   },
   head () {

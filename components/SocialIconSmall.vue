@@ -104,8 +104,8 @@ export default {
 --------------------------------------------------------------*/
   /*
   # X-Small devices (portrait phones, less than 576px)
-  # No media query for `xs` since this is the default in Bootstrap
   */
+
   /* Slim devices (slim phones, 400px and up)*/
   @media only screen and (min-width: 400px) {
     .social-icon{font-size:1.75rem;margin: 0.75rem;}
