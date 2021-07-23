@@ -14,7 +14,7 @@
       </b-link>
       <!-- Whatsapp -->
       <b-link
-        href="https://api.whatsapp.com/send?phone=351964047459&text=Deixe-nos%20a%20sua%20mensagem.%20Obrigado%20pela%20prefer%C3%AAncia"
+        href="https://api.whatsapp.com/send?phone=351968959089&text=Deixe-nos%20a%20sua%20mensagem.%20Obrigado%20pela%20prefer%C3%AAncia"
         target="_blank"
       >
         <b-icon
